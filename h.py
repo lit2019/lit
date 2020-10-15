@@ -1,1 +1,0 @@
-print("shirt dedo plz")
